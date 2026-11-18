@@ -1,0 +1,121 @@
+{
+ "firma": "Arntitzhof eGbR",
+ "stelle": "Agrarbetriebswirt / Landwirtschaftsmeister (m/w/d)",
+ "ort": "Lommatzsch",
+ "plz": "01623",
+ "branche": "landwirtschaft",
+ "stelle_id": 1486,
+ "firma_genitiv": "von Arntitzhof eGbR",
+ "farbe_primary": "#7A6A4A",
+ "farbe_secondary": "#2B2B2B",
+ "region_badge": "Lommatzsch & Umgebung",
+ "benefit_top": "Unbefristet & Wohnmöglichkeit am Hof",
+ "benefits": [
+  "Unbefristeter Arbeitsvertrag in Vollzeit",
+  "Leistungsgerechte Bezahlung & Weihnachtsgeld",
+  "Wenn gewünscht: Wohnmöglichkeiten auf dem Betriebsgelände",
+  "Flexible Arbeitszeiten & flache Hierarchien",
+  "Strukturierte Abläufe & freundliches Arbeitsklima",
+  "Keine Montageeinsätze mit Übernachtung",
+  "Firmenhandy",
+  "Einblicke in unsere Schwesterbetriebe in Bayern, Niedersachsen und Rumänien"
+ ],
+ "aufgaben": [
+  "Du bist mitarbeitender stellvertretender Betriebsleiter",
+  "Dein Schwerpunkt: Pflanzenschutz und Düngung",
+  "Du fährst die Pflanzenschutzspritze",
+  "Du unterweist Mitarbeiter",
+  "Du hilfst bei den Dokumentationspflichten"
+ ],
+ "anforderung": "Eine Ausbildung als Agrarbetriebswirt oder Landwirtschaftsmeister, Pflanzenschutzschein und Führerschein Klasse B und T (CE von Vorteil). Dazu Teamfähigkeit, gutes technisches Verständnis, Leistungsbereitschaft und Flexibilität.",
+ "fachrichtungen_frage": "Was ist dein beruflicher Hintergrund?",
+ "fachrichtungen": [
+  {
+   "label": "Ackerbau / Pflanzenbau",
+   "icon": "🌾",
+   "qualifikationen": [
+    {
+     "label": "Agrarbetriebswirt / Meister",
+     "icon": "🎓"
+    },
+    {
+     "label": "Landwirt (Ausbildung)",
+     "icon": "📘"
+    },
+    {
+     "label": "Erfahren ohne Abschluss",
+     "icon": "💪"
+    }
+   ]
+  },
+  {
+   "label": "Andere Landwirtschaft",
+   "icon": "🚜",
+   "qualifikationen": [
+    {
+     "label": "Agrarbetriebswirt / Meister",
+     "icon": "🎓"
+    },
+    {
+     "label": "Landwirt (Ausbildung)",
+     "icon": "📘"
+    },
+    {
+     "label": "Erfahren ohne Abschluss",
+     "icon": "💪"
+    }
+   ]
+  },
+  {
+   "label": "Anderer Bereich",
+   "icon": "🔄",
+   "qualifikationen": [
+    {
+     "label": "Studium in anderem Fach",
+     "icon": "🎓"
+    },
+    {
+     "label": "Ausbildung in anderem Beruf",
+     "icon": "📘"
+    },
+    {
+     "label": "Erfahren ohne Abschluss",
+     "icon": "💪"
+    }
+   ]
+  }
+ ],
+ "ueber": {
+  "fakten": [
+   {
+    "zahl": "950",
+    "label": "Hektar"
+   },
+   {
+    "zahl": "1990",
+    "label": "gegründet"
+   },
+   {
+    "zahl": "✓",
+    "label": "Familiengeführt"
+   }
+  ],
+  "text": "Der Arntitzhof ist ein landwirtschaftliches Unternehmen mit Sitz in Lommatzsch in Sachsen. Auf rund 950 Hektar wachsen unter anderem Weizen, Zuckerrüben, Kartoffeln, Raps und Körnermais. Seit über 30 Jahren werden die Flächen pfluglos bewirtschaftet. Geführt wird der Betrieb von Inhaberfamilien, mit Schwesterbetrieben in München, Niedersachsen und Rumänien – bei Interesse kannst du dort auch einmal mitarbeiten."
+ },
+ "kunde_tab": "63 Arntitzhof",
+ "quelle": "https://arntitzhof.green-careers.de",
+ "logo": "logo.png",
+ "karte": {
+  "bild": "img/karte.jpg",
+  "label": "Lommatzsch (01623)"
+ },
+ "hero_bild": "img/hero-traktor.jpg",
+ "bilder": [
+  "img/f-traktor.jpg",
+  "img/f-gutshaus.jpg",
+  "img/f-hof-torbogen.jpg"
+ ],
+ "meta_geo": [
+  "Wuhnitzer Straße 22, 01623 Lommatzsch"
+ ]
+}
